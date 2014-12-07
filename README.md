@@ -1,5 +1,5 @@
-telegram-secret-group-chat
-==========================
+Telegram Secret Group  Chat
+===========================
 
 An implementation of "secret group chat" for Telegram based on vysheng's telegram-cli.
 
