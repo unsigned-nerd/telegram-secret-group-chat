@@ -3,7 +3,7 @@ Telegram Secret Group  Chat
 
 An implementation of "secret group chat" for Telegram based on vysheng's telegram-cli.
 
-Currently, the official telegram has secret chat feature for 1 to 1 conversation only.  It doesn't support secret chat for group chat yet.  To implement this, we use telegram-cli from vysheng (on github) and boonbot.lua from boonme (on github).
+Currently, the official telegram has secret chat feature for 1 to 1 conversation only.  It doesn't support secret chat for group chat yet.  To implement this, we use telegram-cli from vysheng (on github) and boonbot.lua from boon (on github).
 
 Terminology
 ===========
@@ -36,7 +36,7 @@ Technical details
 - We add our code into test.lua and the output is boonbot.lua
 - Start booonbot by: telegram-cli -k tg-server.pub -s boonbot.lua
 
-How to for newbies
+How To
 ==================
 - Install telegram-cli from https://github.com/vysheng/tg/ .
 - Assuming you install it under your home directory (~) so it is located at ~/tg/ .
